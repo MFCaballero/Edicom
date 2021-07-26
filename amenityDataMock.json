@@ -1,0 +1,16 @@
+[   { "amenity_type": "Pileta Terraza","quantity": "1","capacity": "10","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Cancha Bowling","quantity": "1","capacity": "1","amenity_detail":" hadouken"},
+    { "amenity_type": "Parrilla","quantity": "1","capacity": "10","amenity_detail":" Aca, en la parri, contesteeeen"},
+    { "amenity_type": "Parrilla","quantity": "4","capacity": "7","amenity_detail":" Aca, en la parri2, contesteeeen"},
+    { "amenity_type": "Pileta","quantity": "3","capacity": "10","amenity_detail":" Aca, en la pile, contesteeeen"}, 
+    { "amenity_type": "Quincho","quantity": "2","capacity": "20","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Cancha de Futbol","quantity": "1","capacity": "1","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Pileta","quantity": "1","capacity": "8","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Sauna","quantity": "1","capacity": "5","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Salón de eventos","quantity": "1","capacity": "20","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Gimnasio","quantity": "1","capacity": "15","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Cancha de Tenis","quantity": "1","capacity": "1","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Cancha de Padel","quantity": "1","capacity": "1","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Gimnasio","quantity": "1","capacity": "8","amenity_detail":" Aca, en la pile, contesteeeen"},
+    { "amenity_type": "Zoom","quantity": "1","capacity": "15","amenity_detail":" Aca, en la pile, contesteeeen"}
+]

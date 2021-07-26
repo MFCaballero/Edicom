@@ -1,0 +1,21 @@
+.GeneralForm{
+    background-color: rgb(167, 167, 167);
+}
+.divContenedor{
+    background-color: rgb(212, 212, 212);
+    margin-left:33rem;
+    width: 30%;
+    height: 18rem;
+}
+.mainContainer{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+}
+.componentHeading1{
+    margin-top: 90px;
+    margin-bottom: 50px;
+}
+.element{
+    margin-bottom: 20px !important;
+}

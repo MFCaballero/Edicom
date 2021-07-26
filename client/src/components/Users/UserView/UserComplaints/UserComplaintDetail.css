@@ -1,0 +1,8 @@
+.hasImage {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.noImage {
+    display: none;
+}

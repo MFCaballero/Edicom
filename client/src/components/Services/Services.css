@@ -1,0 +1,107 @@
+.contExtAllServiceContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: -100px;
+    margin-left: 70px;
+}
+.contExtCardsandIconsPaginate{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.contExtServicesCards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 56%;
+}
+
+.serviceCard{
+    width: 300px;
+    background-color: white;
+    border: 1px solid #212121;
+    color: #212121;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.serviceCard:hover{
+    color: #00ff7f;
+}
+.lineServiceCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+    align-items: center;
+    margin-bottom: -20px;
+    text-align: center;
+}
+.lastLineServiceCard{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 60%;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.GradeIcon{
+    color: #00ff7f;
+}
+.contExtSearchBar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 450px;
+}
+.radioBtnPopUp{
+    display: none;
+}
+.contExtServiceForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-left: 70px;
+}
+.contIntServiceForm{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 25px;
+}
+.contExtServiceFormAdmin{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.btnLineServiceForm{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}

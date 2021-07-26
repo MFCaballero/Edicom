@@ -1,0 +1,17 @@
+.detail:hover{
+    color:green;
+    cursor: pointer;
+}
+
+.detail{
+    text-decoration: underline ;
+}
+
+#button{
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#buttonBack{
+    margin-top: 20px;
+}

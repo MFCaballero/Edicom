@@ -1,0 +1,20 @@
+/* .App {
+	font-family: 'Baloo Tammudu 2', cursive;
+}
+ */
+
+ .homeHeaderBar {
+	 display: flex;
+	 justify-content: space-between;
+	 align-items: center;
+	 width: 100%;
+ }
+
+ .componentHeader {
+    display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}

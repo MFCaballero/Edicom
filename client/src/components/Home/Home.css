@@ -1,0 +1,74 @@
+
+.alerts{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 50px;
+}
+.imgCarusel{
+    width: 500px;
+    height: 300px;
+}
+.paperCarusel{
+    width: 500px;
+    height: 300px;
+    display: flex;
+}
+.alert{
+    width: 300px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 0%;
+    background-color: #212121;
+    padding: 10px;
+    text-align: center;
+    
+}
+.contentCard{
+    color: white;
+}
+.homeCont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.caruselCont{
+    margin-top: 20px;
+}
+.title{
+    margin-top: 100px;
+    color: #212121;
+}
+.carusel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.infoBuilding{
+    text-align: center;
+    background-color: #212121;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hs {
+    color: white;
+}
+
+.map{
+    width: 1000px;
+    height: 500px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}

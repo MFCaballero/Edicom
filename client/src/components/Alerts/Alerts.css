@@ -1,0 +1,29 @@
+.contExtAlerts{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.contAlertsTable{
+    width: 100%;
+}
+.componentHeaderAlertsList{
+    display: flex;
+	flex-direction: row;
+    align-items: center;
+	justify-content: flex-start;
+    margin-left: -70px;
+	
+}
+.homeCont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+}
+.contSelectsAT{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

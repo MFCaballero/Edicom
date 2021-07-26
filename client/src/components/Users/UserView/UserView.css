@@ -1,0 +1,11 @@
+.apartmentHeading {
+    display: flex;
+    align-items: center;
+}
+h1.apartmentNumber {
+    font-size: 60px;
+    margin: 0;
+}
+ul.apartmentInfo {
+    list-style-type: none;
+}

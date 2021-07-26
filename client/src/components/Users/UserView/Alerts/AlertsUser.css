@@ -1,0 +1,76 @@
+.PaginationAlertsUserView{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.contExtAlertsUserView{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.contTitleAlertsUserView{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.cardAlertsUserView{
+    width: 700px;
+    background-color: white;
+    border: 1px solid #212121;
+    color: #212121;
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.cardAlertsUserView:hover{
+    color: #00ff7f;
+}
+.popup-innerAlertsUser{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #212121;
+    color: white;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 5px #000000;
+    background-size: cover;
+    margin-top: 50px;
+}
+.XinputBtnAlertsUser{
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.contExtCalendarUserView{
+    margin-top: 100px;
+    margin-left: 50px;
+    width: 100%;
+}
+.extContSubscriptionsUser{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 70px;
+    margin-top: 100px;
+}
+
+.contIntSubscriptionsUser{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid #212121;
+    border-radius: 5px;
+    width: 80%;
+    margin-top: 70px;
+}

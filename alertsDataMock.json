@@ -1,0 +1,7 @@
+[{"date":"June 11, 2021 1:00 PM","concept":"CORTE DE LUZ PROGRAMADO","details":"Corte de Luz en todo el edificio por mantenimiento desde las 13hs hasta las 18hs","building":1,"importance":"alta"},
+{"date":"June 10, 2021 2:00 PM","concept":"REUNION CONSORCIO POR ZOOM","details":"Reunion de consorcio por Zoom a las 19hs","building":1,"importance":"media"},
+{"date":"June 5, 2021 2:00 PM","concept":"CAMBIO DE EMPRESA PRESTADORA DE SERVICIOS DE LIMPIEZA","details":"A partir de la semana que viene cambiamos la empresa prestadora de servicios de limpieza","building":1,"importance":"baja"},
+{"date":"June 2, 2021 2:00 PM","concept":"CORTE DE AGUA PROGRAMADO","details":"Desde las 8hs a 12hs habra un corte de agua por reparacion de la bomba","building":1,"importance":"alta"},
+{"date":"June 8, 2021 2:00 PM","concept":"ASCENSOR AVERIADO","details":"Informamos que el ascensor 2 se encuentra fuera de servicio y se tomaron medidas inmediatas para su reparacion","building":1,"importance":"alta"},
+{"date":"May 8, 2021 2:00 PM","concept":"PROTOCOLO COVID19","details":"Informamos que esta prohibido el ingreso a los espacios comunes sin barbijo","building":1,"importance":"alta"}
+]

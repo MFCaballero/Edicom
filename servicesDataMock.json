@@ -1,0 +1,50 @@
+[
+    {
+        "title": "PLOMERO MATRICULADO",
+        "provider": "Pedro",
+        "enrollment": 12345,
+        "contact": "123456789",
+        "detail": "el mejor plomero matriculado",
+        "buildingId": 1
+    }
+    ,
+    {
+        "title": "PLOMERO MATRICULADO",
+        "provider": "Pablo",
+        "enrollment": 12346,
+        "contact": "123456689",
+        "detail": "fsdfdsfdsf",
+        "buildingId": 1
+    
+    },
+    {
+        "title": "GASISTA MATRICULADO",
+        "provider": "El gasista",
+        "enrollment": 13346,
+        "contact": "123456689",
+        "detail": "fsdfdsfdsf",
+        "buildingId": 1
+    },
+    {
+        "title": "GASISTA MATRICULADO",
+        "provider": "Oscar",
+        "enrollment": 19346,
+        "contact": "123456689",
+        "detail": "el mejor gasista matriculado",
+        "buildingId": 1
+    },
+    {
+        "title": "Limpieza",
+        "provider": "Marta",
+        "contact": "123456689",
+        "detail": "chica limpia departamento deja todo impecable",
+        "buildingId": 1
+    },
+    {
+        "title": "Clases Particulares",
+        "provider": "Moises",
+        "contact": "173456689",
+        "detail": "profe apoyo escolar primaria",
+        "buildingId": 1
+    }
+]

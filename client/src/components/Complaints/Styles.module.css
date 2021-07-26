@@ -1,0 +1,20 @@
+/* .detail:hover{
+    color:green;
+    cursor: pointer;
+}
+
+.detail{
+    text-decoration: underline ;
+} */
+
+#button{
+    margin-right: 20px;
+}
+
+.contSelectsComplaintsTable{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}

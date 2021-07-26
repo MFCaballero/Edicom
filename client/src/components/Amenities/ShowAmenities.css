@@ -1,0 +1,8 @@
+.extContAmenitiesListTable{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: -500px;
+    margin-bottom: 50px;
+}

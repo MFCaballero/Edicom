@@ -1,0 +1,31 @@
+.link {
+	text-decoration: none;
+	list-style: none;
+}
+.link a {
+	text-decoration: none;
+	list-style: none;
+}
+.fontColor {
+	color: #00ff7f;
+}
+
+.login {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: absolute;
+	top: 10px;
+	right: 50px;
+}
+.btnNavbar {
+	margin-right: 10px;
+}
+
+#noti{
+	margin-left: 10px;
+}
+
+#notiBox{
+	margin-top: 300px
+}

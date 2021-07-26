@@ -1,0 +1,18 @@
+.componentHeader {
+	width: 72%;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	margin-bottom: 20px;
+}
+.link{
+	margin-left: 20px;
+}
+.extContAL{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-top: 100px;
+}

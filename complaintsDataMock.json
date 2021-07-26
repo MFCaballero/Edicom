@@ -1,0 +1,56 @@
+[
+    {
+        "date":"June 11, 2021 1:00 PM",
+        "subject":"Me cortaron la luz",
+        "details":"Corte de Luz en todo el edificio por mantenimiento desde las 13hs hasta las 18hs",
+        "building":1,
+        "user":1,
+        "importance":"alta",
+        "image":""
+    },
+    {
+        "date":"June 10, 2021 2:00 PM",
+        "subject":"El ascensor se para",
+        "details":"Reunion de consorcio por Zoom a las 19hs",
+        "building":1,
+        "user":2,
+        "importance":"media",
+        "image":"https://media-cdn.tripadvisor.com/media/photo-s/11/13/d9/e0/ascensor-roto-por-mas.jpg"
+    },
+    {
+        "date":"June 5, 2021 2:00 PM",
+        "subject":"Alguien tira basura en el hall del edificio",
+        "details":"A partir de la semana que viene cambiamos la empresa prestadora de servicios de limpieza",
+        "building":3,
+        "user":3,
+        "importance":"baja",
+        "image":"https://www.rokkina.com/wp-content/uploads/2020/01/IMG_0335_1-scaled.jpg"
+    },
+    {
+        "date":"June 2, 2021 2:00 PM",
+        "subject":"¿Qué pasa con el agua?",
+        "details":"Desde las 8hs a 12hs habra un corte de agua por reparacion de la bomba",
+        "building":7,
+        "user":1,
+        "importance":"alta",
+        "image":""
+    },
+    {
+        "date":"June 8, 2021 2:00 PM",
+        "subject":"Me quedé atrapado en el ascensor",
+        "details":"Informamos que el ascensor 2 se encuentra fuera de servicio y se tomaron medidas inmediatas para su reparacion",
+        "building":10,
+        "user":1,
+        "importance":"alta",
+        "image":"https://cdn.abcotvs.com/dip/images/5585909_100119-ewn-430-chris-scouts-stuck-vid.jpg?w=1600"
+    },
+    {
+        "date":"May 8, 2021 2:00 PM",
+        "subject":"Mi vecina no usa barbijo ni cumple el protocolo",
+        "details":"Informamos que esta prohibido el ingreso a los espacios comunes sin barbijo",
+        "building":3,
+        "user":1,
+        "importance":"alta",
+        "image":"https://i.pinimg.com/originals/44/e0/e5/44e0e52634531a514aeea52d4f42e94b.jpg"
+    }
+]

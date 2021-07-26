@@ -1,0 +1,38 @@
+#cont{
+    margin-top: 7rem;
+    margin-left: 4rem;
+}
+
+#formCont{
+    margin-left: 15rem;
+}
+
+#form{
+    display: flex;
+}
+
+#input{
+    width: 280px
+}
+
+#submit{
+    width: 210px;
+    height: 40px;
+    margin-left:5rem
+}
+
+#left{
+    display: flex;
+    flex-direction: column;
+}
+
+#right{
+    margin-top: 92px;
+    margin-left: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.box{
+    margin-bottom: 20px;
+}

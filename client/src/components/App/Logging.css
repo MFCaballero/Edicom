@@ -1,0 +1,8 @@
+.Logging{
+    background:url('../../utils/fondo');
+    width:100%;
+    min-width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    /* border:black 10px solid; */
+}
